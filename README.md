@@ -2,7 +2,7 @@
 
 **Impartial Punch Performance Officials**
 
-Three ML judges, three scoring philosophies (clean punching, pressure, defense), one scorecard. When they split, you see why.
+Three boxing judge models, each trained to weigh punching, pressure or defense, with SHAP explanations for every scorecard.
 
 > 🚧 Work in progress — currently building the dataset (Phase 1).
 
