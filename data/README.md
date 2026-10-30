@@ -19,7 +19,7 @@
 | `weight_class` | `heavyweight` | |
 | `scheduled_rounds` | `12` | |
 | `result` | `a` / `b` / `draw` | |
-| `decision_type` | `UD` / `SD` / `MD` / `D` | |
+| `decision_type` | `UD` / `SD` / `MD` | for draws (`result` = `draw`): `SD` = split draw, `MD` = majority draw |
 | `controversial` | `y` / `n` | widely disputed decision |
 | `video_available` | `y` / `n` | legally watchable full rounds |
 | `source` | URL | where the result was checked |

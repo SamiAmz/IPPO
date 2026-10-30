@@ -1,1 +1,42 @@
 fight_id,date,fighter_a,fighter_b,weight_class,scheduled_rounds,result,decision_type,controversial,video_available,source
+pacquiao-bradley-1,2012-06-09,Manny Pacquiao,Timothy Bradley,welterweight,12,b,SD,y,,https://en.wikipedia.org/wiki/Manny_Pacquiao_vs._Timothy_Bradley
+alvarez-golovkin-1,2017-09-16,Canelo Alvarez,Gennady Golovkin,middleweight,12,draw,SD,y,,https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez
+alvarez-golovkin-2,2018-09-15,Canelo Alvarez,Gennady Golovkin,middleweight,12,a,MD,y,,https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez
+holyfield-lewis-1,1999-03-13,Evander Holyfield,Lennox Lewis,heavyweight,12,draw,SD,y,,https://en.wikipedia.org/wiki/Evander_Holyfield_vs._Lennox_Lewis
+wilder-fury-1,2018-12-01,Deontay Wilder,Tyson Fury,heavyweight,12,draw,SD,y,,https://en.wikipedia.org/wiki/Tyson_Fury
+haney-lomachenko,2023-05-20,Devin Haney,Vasiliy Lomachenko,lightweight,12,a,UD,y,,https://en.wikipedia.org/wiki/Vasiliy_Lomachenko
+beterbiev-bivol-1,2024-10-12,Artur Beterbiev,Dmitry Bivol,light heavyweight,12,a,MD,y,,https://www.badlefthook.com/2024/10/12/24268738/artur-beterbiev-wins-majority-decision-over-dmitry-bivol-scorecards-results-boxing-news-2024
+pacquiao-horn,2017-07-02,Manny Pacquiao,Jeff Horn,welterweight,12,b,UD,y,,https://en.wikipedia.org/wiki/Manny_Pacquiao_vs._Jeff_Horn
+charlo-castano-1,2021-07-17,Jermell Charlo,Brian Castano,super welterweight,12,draw,SD,y,,https://en.wikipedia.org/wiki/Jermell_Charlo_vs._Brian_Casta%C3%B1o
+pacquiao-marquez-3,2011-11-12,Manny Pacquiao,Juan Manuel Marquez,welterweight,12,a,MD,y,,https://en.wikipedia.org/wiki/Manny_Pacquiao_vs._Juan_Manuel_M%C3%A1rquez_III
+marquez-pacquiao-2,2008-03-15,Juan Manuel Marquez,Manny Pacquiao,super featherweight,12,b,SD,y,,https://africa.espn.com/boxing/story/_/id/8710546/experts-score-first-three-fights
+alvarez-lara,2014-07-12,Canelo Alvarez,Erislandy Lara,super welterweight,12,a,SD,y,,https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez
+mayweather-castillo-1,2002-04-20,Floyd Mayweather Jr.,Jose Luis Castillo,lightweight,12,a,UD,y,,https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Castillo_vs._Floyd_Mayweather_Jr.
+delahoya-trinidad,1999-09-18,Oscar De La Hoya,Felix Trinidad,welterweight,12,b,MD,y,,https://en.wikipedia.org/wiki/Oscar_De_La_Hoya_vs._F%C3%A9lix_Trinidad
+taylor-catterall-1,2022-02-26,Josh Taylor,Jack Catterall,super lightweight,12,a,SD,y,,https://en.wikipedia.org/wiki/Josh_Taylor_vs._Jack_Catterall
+ward-kovalev-1,2016-11-19,Andre Ward,Sergey Kovalev,light heavyweight,12,a,UD,y,,https://lasvegassun.com/news/2016/nov/19/andre-ward-takes-unanimous-decision-victory-agains/
+hagler-leonard,1987-04-06,Marvin Hagler,Sugar Ray Leonard,middleweight,12,b,SD,y,,https://en.wikipedia.org/wiki/Marvin_Hagler_vs._Sugar_Ray_Leonard
+whitaker-chavez,1993-09-10,Pernell Whitaker,Julio Cesar Chavez,welterweight,12,draw,MD,y,,https://en.wikipedia.org/wiki/Pernell_Whitaker_vs._Julio_C%C3%A9sar_Ch%C3%A1vez
+usyk-fury-1,2024-05-18,Oleksandr Usyk,Tyson Fury,heavyweight,12,a,SD,n,,https://en.wikipedia.org/wiki/Oleksandr_Usyk
+usyk-joshua-2,2022-08-20,Oleksandr Usyk,Anthony Joshua,heavyweight,12,a,SD,n,,https://www.thescore.com/boxing/news/2402860
+bivol-beterbiev-2,2025-02-22,Dmitry Bivol,Artur Beterbiev,light heavyweight,12,a,MD,n,,https://www.toprank.com/events/beterbiev-vs-bivol-2
+mayweather-alvarez,2013-09-14,Floyd Mayweather Jr.,Canelo Alvarez,super welterweight,12,a,MD,n,,https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez
+mayweather-delahoya,2007-05-05,Floyd Mayweather Jr.,Oscar De La Hoya,super welterweight,12,a,SD,n,,https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.
+pacquiao-thurman,2019-07-20,Manny Pacquiao,Keith Thurman,welterweight,12,a,SD,n,,https://www.cbssports.com/boxing/news/manny-pacquiao-vs-keith-thurman-fight-results-scorecard-pacman-earns-title-in-split-decision-win
+spence-porter,2019-09-28,Errol Spence Jr.,Shawn Porter,welterweight,12,a,SD,n,,https://en.wikipedia.org/wiki/Errol_Spence_Jr._vs._Shawn_Porter
+golovkin-jacobs,2017-03-18,Gennady Golovkin,Daniel Jacobs,middleweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Gennady_Golovkin_vs._Daniel_Jacobs
+usyk-fury-2,2024-12-21,Oleksandr Usyk,Tyson Fury,heavyweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Oleksandr_Usyk
+davis-cruz,2021-12-05,Gervonta Davis,Isaac Cruz,lightweight,12,a,UD,n,,https://danrafael.substack.com/p/davis-grinds-out-unanimous-decision
+lopez-lomachenko,2020-10-17,Teofimo Lopez,Vasiliy Lomachenko,lightweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Vasiliy_Lomachenko
+alvarez-bivol,2022-05-07,Canelo Alvarez,Dmitry Bivol,light heavyweight,12,b,UD,n,,https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez_vs._Dmitry_Bivol
+usyk-joshua-1,2021-09-25,Oleksandr Usyk,Anthony Joshua,heavyweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Oleksandr_Usyk
+alvarez-crawford,2025-09-13,Canelo Alvarez,Terence Crawford,super middleweight,12,b,UD,n,,https://www.ufc.com/news/live-results-official-scorecards-match-recaps-interviews-canelo-vs-crawford-las-vegas
+fury-klitschko,2015-11-28,Tyson Fury,Wladimir Klitschko,heavyweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Tyson_Fury
+mayweather-pacquiao,2015-05-02,Floyd Mayweather Jr.,Manny Pacquiao,welterweight,12,a,UD,n,,https://boxing.nv.gov/uploadedFiles/boxingnvgov/content/results/2015_Results/05-02-15.pdf
+inoue-donaire-1,2019-11-07,Naoya Inoue,Nonito Donaire,bantamweight,12,a,UD,n,,https://www.rappler.com/sports/244414-fight-results-donaire-inoue-november-7-2019/
+spence-garcia,2019-03-16,Errol Spence Jr.,Mikey Garcia,welterweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Errol_Spence_Jr._vs._Mikey_Garcia
+alvarez-ryder,2023-05-06,Canelo Alvarez,John Ryder,super middleweight,12,a,UD,n,,https://www.boxingscene.com/canelo-alvarez-vs-john-ryder-official-scorecards--174418
+alvarez-munguia,2024-05-04,Canelo Alvarez,Jaime Munguia,super middleweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez_vs._Jaime_Mungu%C3%ADa
+joshua-ruiz-2,2019-12-07,Anthony Joshua,Andy Ruiz Jr.,heavyweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Andy_Ruiz_Jr._vs_Anthony_Joshua_II
+stevenson-valdez,2022-04-30,Shakur Stevenson,Oscar Valdez,super featherweight,12,a,UD,n,,https://www.cbssports.com/boxing/news/shakur-stevenson-cruises-past-oscar-valdez-to-unify-junior-lightweight-titles-by-unanimous-decision
+alvarez-trout,2013-04-20,Canelo Alvarez,Austin Trout,super welterweight,12,a,UD,n,,https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez
