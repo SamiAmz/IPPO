@@ -2,18 +2,18 @@
 
 **Impartial Punch Performance Officials**
 
-Three boxing judge models, each trained to weigh punching, pressure or defense, with SHAP explanations for every scorecard.
+Three boxing judge models, each trained to weigh damage, volume or ring control, with SHAP explanations for every scorecard.
 
 
 ## The idea
 
-Professional boxing is scored by three judges using the 10-point must system, and they often disagree. IPPO builds three ML judges, each trained to weight the official criteria differently:
+Professional boxing is scored by three judges using the 10-point must system, and they often disagree. IPPO builds three ML judges, each modelled on one of the arguments fans actually have about close scorecards:
 
-| Judge | Philosophy |
-|---|---|
-| **The Puncher's Judge** | Clean, effective punching |
-| **The Pressure Judge** | Effective aggression and ring generalship |
-| **The Defense Judge** | Defense and making the opponent miss |
+| Judge | The argument | What it values |
+|---|---|---|
+| **The Damage Judge** | "He landed the cleaner, harder shots." | Power punches landed, accuracy, knockdowns |
+| **The Volume Judge** | "He was way busier, he outworked him." | Punches thrown and landed, output per minute |
+| **The Ring General** | "He controlled the whole fight." | Who dictated distance and pace, opponent's misses |
 
 Each judge scores every round, the cards are totalled into a decision (unanimous, split, majority or draw), and SHAP explanations show *why* the judges disagreed.
 
